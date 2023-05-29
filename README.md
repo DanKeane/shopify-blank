@@ -1,9 +1,9 @@
 # File Strct
-  assets
+  >assets
   
-  config
+  >config
  
-  layout
+  >layout
   
   locales
   
