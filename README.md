@@ -15,7 +15,7 @@
   
   
 # Theme Kit
-  Install https://apps.shopify.com/theme-access?shpxid=67f41e53-8681-4FE2-803A-24DBA0975A87
+  Install https://apps.shopify.com/theme-access
   
   Project CMD:
   
