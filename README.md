@@ -1,17 +1,17 @@
 # File Strct
-  >assets
+  > assets
   
-  >config
+  > config
  
-  >layout
+  > layout
   
-  locales
+  > locales
   
-  sections
+  > sections
   
-  snippets
+  > snippets
   
-  templates
+  > templates
   
   
 # Theme Kit
@@ -19,6 +19,6 @@
   
   Project CMD:
   
-  theme configure -s STORE_URL -t THEME_ID -p PASSWORD
+  > theme configure -s STORE_URL -t THEME_ID -p PASSWORD
   
-  theme watch --allow-live
+  > theme watch --allow-live
