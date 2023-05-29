@@ -1,4 +1,4 @@
-# File Strct
+# File Struct
   > assets
   
   > config
